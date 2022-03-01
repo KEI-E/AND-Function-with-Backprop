@@ -1,0 +1,11 @@
+A:\GitHubDesktop\Repositories\CS346\Week 4\MLCSpadalabackprop\MLCSpadalabackprop\bin\Debug\MLCSpadalabackprop.exe.config
+A:\GitHubDesktop\Repositories\CS346\Week 4\MLCSpadalabackprop\MLCSpadalabackprop\bin\Debug\MLCSpadalabackprop.exe
+A:\GitHubDesktop\Repositories\CS346\Week 4\MLCSpadalabackprop\MLCSpadalabackprop\bin\Debug\MLCSpadalabackprop.pdb
+A:\GitHubDesktop\Repositories\CS346\Week 4\MLCSpadalabackprop\MLCSpadalabackprop\obj\Debug\MLCSpadalabackprop.csproj.AssemblyReference.cache
+A:\GitHubDesktop\Repositories\CS346\Week 4\MLCSpadalabackprop\MLCSpadalabackprop\obj\Debug\MLCSpadalabackprop.csproj.SuggestedBindingRedirects.cache
+A:\GitHubDesktop\Repositories\CS346\Week 4\MLCSpadalabackprop\MLCSpadalabackprop\obj\Debug\MLCSpadalabackprop.Form1.resources
+A:\GitHubDesktop\Repositories\CS346\Week 4\MLCSpadalabackprop\MLCSpadalabackprop\obj\Debug\MLCSpadalabackprop.Properties.Resources.resources
+A:\GitHubDesktop\Repositories\CS346\Week 4\MLCSpadalabackprop\MLCSpadalabackprop\obj\Debug\MLCSpadalabackprop.csproj.GenerateResource.cache
+A:\GitHubDesktop\Repositories\CS346\Week 4\MLCSpadalabackprop\MLCSpadalabackprop\obj\Debug\MLCSpadalabackprop.csproj.CoreCompileInputs.cache
+A:\GitHubDesktop\Repositories\CS346\Week 4\MLCSpadalabackprop\MLCSpadalabackprop\obj\Debug\MLCSpadalabackprop.exe
+A:\GitHubDesktop\Repositories\CS346\Week 4\MLCSpadalabackprop\MLCSpadalabackprop\obj\Debug\MLCSpadalabackprop.pdb
